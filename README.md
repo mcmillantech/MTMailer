@@ -1,0 +1,2 @@
+# MTMailer
+Bulk email application
